@@ -5,5 +5,5 @@ using namespace std;
 int main()
 {
 	cout << "jhpark Print" << endl;
-	return 0;
+	std::cout << "갓기태" << std::endl;
 }
